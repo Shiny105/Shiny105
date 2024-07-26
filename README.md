@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Engineer
 -----------------
 
-Hey there, fellow computer engineer! 👋 Fresh UTA grad here, armed with a computer engineering degree and a math minor. I've got embedded systems tricks up my sleeve and I'm itching to turn academic theories into real-world tech magic! 🎩✨ Dive into my GitHub repos and let's geek out together! 🚀💻 Thanks for stopping by!
+Hey there, fellow computer engineer! 👋 
+Fresh UTA grad here, armed with a computer engineering degree and a math minor. 
+I've got embedded systems tricks up my sleeve and I'm itching to turn academic theories into real-world tech magic! 🎩✨ 
+Dive into my GitHub repos and let's geek out together! 🚀💻 
+Thanks for stopping by!
 
 * 🌍  I'm based in Austin, TX
 * 🖥️  See my portfolio at [chandni.vercel.app](http://chandni.vercel.app)
